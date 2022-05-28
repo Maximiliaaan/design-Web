@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "mappings": "AQAA,AAAA,OAAO,CAAA;EACH,gBAAgB,EPDX,OAAO;EOEZ,KAAK,EPAQ,IAAI;EOCjB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;CACf;;ARCD,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;CACzB",
+    "sources": [
+        "ain.scss",
+        "bstracts/_variables.scss",
+        "bstracts/_mixin.scss",
+        "ase/_reset.scss",
+        "ages/_about.scss",
+        "ages/_home.scss",
+        "ages/_services.scss",
+        "omponent/_footer.scss",
+        "omponent/_nav.scss",
+        "omponent/_responsive.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
