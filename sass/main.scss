@@ -4,13 +4,14 @@
 
 @import "./pages/about", "./pages/home", "./pages/services";
 
-<<<<<<< HEAD
+
 @import "./component/footer", "./component/nav", "./component/responsive";
+
 
 *{
     margin: 0;
     box-sizing: border-box;
 }
-=======
-@import "./component/footer", "./component/nav", "./component/responsive";
->>>>>>> 518dca05981042f5225f375e8df665eec48572d5
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
