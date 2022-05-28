@@ -2,9 +2,48 @@
 .navbar {
     background-color: $bgColor;
     color: $secondaryColor;
+    font-size: 1rem;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 100vw;
-    height: 5rem;  
+    height: 10vh;
+    border-bottom: 5px solid $primaryColor;   
+    
+    
+    .left-navbar {
+    margin-left: 12rem;
+    // vertical-align: auto;
 
 }
+    #clarusway{
+    color: $primaryColor;
+    // font-weight: 900;
+}
+    .right-navbar{
+        margin-right: 10rem;
+        // vertical-align: auto;
+        
+    }
+    .nav-link{
+        display: flex;
+        justify-content: space-between;
+
+       li{
+           list-style-type: none;
+
+           a{
+               text-decoration: none;
+               color: $secondaryColor;
+               padding: 0 1rem;
+           }
+       }
+    }
+    #home{
+        color: $primaryColor;
+        // font-weight: 900;
+    }
+    
+}
+
+

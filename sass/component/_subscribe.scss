@@ -1,0 +1,23 @@
+.subscribe{
+    background-color: $bgColor;
+    color: $secondaryColor;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.5rem;
+
+}
+#email{
+    width: 18rem;
+    height: 2.5rem;
+    outline: none
+}
+#submit{
+    background-color: $primaryColor;
+    color: $secondaryColor;
+    width: 7rem;
+    height: 2.5rem;
+    // outline: none;
+}
